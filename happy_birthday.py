@@ -1,0 +1,5 @@
+name=input("What is your name?")
+birthmonth=input("What is your birth month?")
+birthday=input("Which day?")
+birthyear=input("What year were you born in?")
+print(name ,",your birthday is on," , birthmonth , birthday , birthyear)
