@@ -6,7 +6,7 @@ This program is created to take input from the user and convert the number into 
 from AED to pound, dollar, or euro or the other way around. The user enters what currency they want converted from and to with the amount. Then the code converts
 it and prints it out.
 Nour's repoistory:https://github.com/Nour-Alsous/GCIS
-Mohsin's repository:
+Mohsin's repository: https://github.com/ayazmohsin/rep-1.git 
 Nabil's repository:
 '''
 
